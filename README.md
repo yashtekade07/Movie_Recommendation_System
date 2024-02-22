@@ -21,7 +21,10 @@ To run the movie recommendation system, follow these steps:
 1. Clone the Repository: git clone https://github.com/yourusername/Movie-Recommendation-System.git
 
 2. Install Dependencies: pip install -r requirements.txt
-3. Run the System: python app.py
+
+3. Open Movie-Recommendation-System.ipynb in notebook and run all to generate movies_dict.pkl and similarity.pkl
+
+4. Run the System: python app.py
 
 📋 Requirements
 
